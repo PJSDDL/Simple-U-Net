@@ -1,0 +1,6 @@
+model_checkpoint_path: "enco.ckpt-1001"
+all_model_checkpoint_paths: "enco.ckpt-201"
+all_model_checkpoint_paths: "enco.ckpt-401"
+all_model_checkpoint_paths: "enco.ckpt-601"
+all_model_checkpoint_paths: "enco.ckpt-801"
+all_model_checkpoint_paths: "enco.ckpt-1001"
